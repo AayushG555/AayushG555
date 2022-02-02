@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **shukla.aayush555@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **F1 Enthusiast.**
 
 <br/>
 
