@@ -5,7 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF78&font=Robot-Bold&size=30&center=true&vCenter=true&width=900&height=110&lines=CSE+Sophomore;Passionate+Developer;Competitive+Programmer;Freelancer)](https://git.io/typing-svg)
 
-<br/>
 
 ---
 
@@ -71,7 +70,6 @@
 <img alt="Aayush Shukla's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AayushG555&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ---
-<br/>
 
  <h2 align="center">📫 Reach out to me on</h2>
   <p align="center">
