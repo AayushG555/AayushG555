@@ -15,7 +15,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Supplier Management System](https://github.com/AayushG555/Supplier-Management-System)**
+- 🔭 I’m currently working on **[Electricity Bill Generator](https://github.com/AayushG555/Electricity-Bill-Generator)**
 
 - 🌱 I’m currently learning **JavaScript.**
 
