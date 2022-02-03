@@ -15,7 +15,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Disease Prediction Software](https://github.com/AayushG555/Disease-Prediction.git)**
+- 🔭 I’m currently working on **[Supplier Management System](https://github.com/AayushG555/Supplier-Management-System)**
 
 - 🌱 I’m currently learning **JavaScript.**
 
