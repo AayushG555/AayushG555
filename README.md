@@ -15,7 +15,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Electricity Bill Generator](https://github.com/AayushG555/Electricity-Bill-Generator)**
+- 🔭 I’m currently working on **[Tic-Tac-Toe](https://github.com/AayushG555/Tic-Tac-Toe)**
 
 - 🌱 I’m currently learning **JavaScript.**
 
