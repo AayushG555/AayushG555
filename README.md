@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aayush Shukla</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF78&font=Robot-Bold&size=30&center=true&vCenter=true&width=900&height=110&lines=CSE+Sophomore;Passionate+Developer;Competitive+Programmer;Freelancer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF78&font=Robot-Bold&size=30&center=true&vCenter=true&width=900&height=110&lines=CSE+Junior;Passionate+Developer;Competitive+Programmer;Freelancer)](https://git.io/typing-svg)
 
 ---
 
