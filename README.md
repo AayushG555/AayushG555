@@ -15,9 +15,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Tic-Tac-Toe](https://github.com/AayushG555/Tic-Tac-Toe)**
+- 🔭 I’m currently working on **[Disease-Prediction](https://github.com/AayushG555/Disease-Prediction-Software)**
 
-- 🌱 I’m currently learning **JavaScript.**
+- 🌱 I’m currently learning **Android Development.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **shukla.aayush555@gmail.com**
 
-- ⚡ Fun fact **F1 Enthusiast.**
+- ⚡ Fun fact **- I am a F1 Enthusiast.**
 
 <br/>
 
