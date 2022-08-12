@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **[Disease-Prediction](https://github.com/AayushG555/Disease-Prediction-Software)**
 
-- 🌱 I’m currently learning **Android Development.**
+- 🌱 I’m currently learning **Android Development**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
