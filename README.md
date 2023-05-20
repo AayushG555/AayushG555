@@ -15,7 +15,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Teams-Attendance-Bot](https://github.com/AayushG555/Disease-Prediction-Software)**
+- 🔭 I’m currently working on **[Teams-Attendance-Bot](https://github.com/AayushG555/Teams-Attendance-Bot)**
 
 - 🌱 I’m currently learning **Java Development**
 
