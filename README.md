@@ -15,17 +15,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Disease-Prediction](https://github.com/AayushG555/Disease-Prediction-Software)**
+- 🔭 I’m currently working on **[Teams-Attendance-Bot](https://github.com/AayushG555/Disease-Prediction-Software)**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Java Development**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
-
-- 📫 How to reach me **shukla.aayush555@gmail.com**
-
-- ⚡ Fun fact **- I am a F1 Enthusiast.**
 
 <br/>
 
